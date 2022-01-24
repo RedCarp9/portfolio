@@ -49,7 +49,7 @@ def main():
     st.markdown(button_css, unsafe_allow_html=True)
     
     if not table_isexist(conn, cur, 'nikkei_data') or not table_isexist(conn, cur, 'stock_data'):
-        st.header('初期データの読込')
+        st.header('初期データの読込1')
         if not table_isexist(conn, cur, 'nikkei_data'):
             nikkei_file = st.file_uploader('日経銘柄データファイル（CSV）をアップロードしてください', type='csv')
             st.info('Excelデータのダウンロード：https://www.jpx.co.jp/markets/statistics-equities/misc/01.html')
