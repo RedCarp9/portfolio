@@ -1,0 +1,51 @@
+1643032219945	geckodriver	INFO	Listening on 127.0.0.1:56012
+1643032222978	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\T-Imada\\AppData\\Local\\Temp\\rust_mozprofileuOjOIB"
+*** You are running in headless mode.
+1643032224493	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\T-Imada\\AppData\\Local\\Temp\\rust_mozprofileuOjOIB\\search.json.mozlz4", (void 0)))
+1643032228106	Marionette	INFO	Listening on port 56021
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1643032232781	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sbisec.akamaized.net/sbisec/js/qr_search_engine.min.js?20150508, line 1: unreachable code after return statement
+JavaScript warning: https://mnt.sbisec.co.jp/fp/check.js;CIS3SID=7EEB51C34628AA937B7FA3F611C9A748?org_id=biz1kn5f&session_id=4a860d6984a94a74934ef623419a0ae4&nonce=92a96a7b71972e36&jb=36302e246a736d7d35576966646f75732e68736f3f556b6c646f7f73253230313026627162753f4e6172656e6f78246a7b603d466b7067646f782d32303936, line 512: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sbisec.co.jp"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sbisec.co.jp"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sbisec.co.jp"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sbisec.co.jp"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sbisec.co.jp"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sbisec.co.jp"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sbisec.co.jp"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643032297817	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://sbisec.akamaized.net/sbisec/js/qr_search_engine.min.js?20150508, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sbisec.co.jp"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sbisec.co.jp"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://sbisec.akamaized.net/sbisec/js/qr_search_engine.min.js?20150508, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://site2.sbisec.co.jp"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://site2.sbisec.co.jp"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://site2.sbisec.co.jp"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://site2.sbisec.co.jp"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://site2.sbisec.co.jp"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://sbisec.akamaized.net/sbisec/js/qr_search_engine.min.js?20150508, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://trade.sbineomobile.co.jp"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://trade.sbineomobile.co.jp"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1643032338954	Marionette	INFO	Stopped listening on port 56021
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
