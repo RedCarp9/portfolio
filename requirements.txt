@@ -1,5 +1,6 @@
-matplotlib @ file:///C:/ci/matplotlib-suite_1634667159685/work
-matplotlib-inline @ file:///tmp/build/80754af9/matplotlib-inline_1628242447089/work
-pandas @ file:///C:/ci/pandas_1635488579061/work
+beautifulsoup4
+matplotlib
+matplotlib-inline
+pandas
 pandas-datareader==0.10.0
-selenium @ file:///C:/ci/selenium_1614268348533/work
+selenium
